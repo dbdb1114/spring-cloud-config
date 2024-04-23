@@ -1,0 +1,6 @@
+token:
+  expirtation_time: 864000
+  secrete: user_token
+
+gateway:
+  ip: 192.168.0.8 # 변경될 듯 
